@@ -1,4 +1,4 @@
-[YouTube](https://www.youtube.com/)
+# tech resources to share
 
 [DistroTube - YouTube](https://www.youtube.com/@DistroTube)
 
