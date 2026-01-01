@@ -18,9 +18,7 @@
 
 [Rob Braxman Tech - YouTube](https://www.youtube.com/@robbraxmantech)
 
-[Michael Horn - YouTube](https://www.youtube.com/@MichaelNROH)
-
----
+[Michael Horn - YouTube](https://www.youtube.com/@MichaelNROH)  
 
 [Bread on Penguins - YouTube](https://www.youtube.com/@BreadOnPenguins)
 
