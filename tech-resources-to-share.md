@@ -35,7 +35,7 @@ The Linux Command Line
 by William Shotts  
 **Sixth Internet Edition** (available as a free PDF)  
 https://www.linuxcommand.org/tlcl.php
-(I haven't read this or "The Linux Command Line, 3rd Edition: A Complete Introduction" (latest edition $50 USD pre-order at the time of this writing)  
+(I haven't read this or "The Linux Command Line, 3rd Edition: A Complete Introduction" (latest edition $50 USD pre-order at the time of this writing), but it's supposed to be highly recommended.  
 
 Somewhat helpful resources ;) 
 [My Barely Learning HTML blog post](https://schooladvisor26.wordpress.com/2021/09/27/barely-learning-html/)  
