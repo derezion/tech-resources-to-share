@@ -43,5 +43,5 @@ Somewhat helpful resources ;)
 # Favorite apps
 - Workflowy
 - Dynalist
-- Capacities (Capaciites.io)
+- Capacities (Capacities.io)
 - Falkon Web Browser
